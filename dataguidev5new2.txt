@@ -31,20 +31,20 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-3234675-1",
+"yandex_inter":"R-M-3234675-3",
+"yandex_native":"R-M-3234675-2",
+"yandex_reward":"R-M-3234675-4",
 
 "detail_first_button":"watch how to downlaod",
 "detail_second_button":"20MB",
 "detail_text_title":"HOW TO INSTALL",
 "detail_text1":"1) open file in chrome.. and File is Auto Downloading..\n\n 2) open Download folder and Extract to .zip file which ", 
  
-"banner_network_choice":"unity", 
-"interstisial_network_choice":"unity", 
-"reward_network_choice":"unity",
-"native_network_choice":"unity"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
@@ -87,9 +87,9 @@
    ],
   
   "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"GMOD 2 APK ","package_name":"com.gameplaymod.boxgmod","icon":"https://play-lh.googleusercontent.com/54MFhZ7KGtKWZQaulMZrfL2xtTBObxr28veyHFX0onkhOQ6Xeb_iDXEAYl3zIYa6l18=s48-rw"},
+  {"name":"Garry s mod Apk ","package_name":"com.apktimemobile.garrygammingapk","icon":"https://play-lh.googleusercontent.com/oFO3X3kJBnBkmpqAYKGyzBPs9tfNHOAaM3GfxVw69zSj2eH-vB98xapbj9pmDHr9JQ=w240-h480-rw"},
+  {"name":"Skibidi Toilet Gmod","package_name":"com.cameramanmod.gmodcameraman","icon":"https://play-lh.googleusercontent.com/Q5HjW-WxzCBOrkkZiABWDWQ8Q1j2ykPNm7WBo7QQ6FZuBFGff0W8K0eazWyn2IolzsU=w240-h480-rw"}
    ]
  
 }
